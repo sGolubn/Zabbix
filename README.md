@@ -72,8 +72,8 @@
 
 
 ```
-....
-....
+
+
 
 ### Решение 2
 
@@ -84,7 +84,7 @@
 4.  `sed -i 's/Server=127.0.0.1/Server=192.168.1.36/g' /etc/zabbix/zabbix_agent.conf`
 5.  `sed -i 's/Server=127.0.0.1/Server=192.168.1.33/g' /etc/zabbix/zabbix_agent.conf`
 
-....
+
 
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg).
 
@@ -93,5 +93,5 @@
 
 
 
-....
+
 
