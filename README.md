@@ -50,8 +50,7 @@
 11. `systemctl enable zabbix-server apache2`
     
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/1.jpg)
-      ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg)
-         ![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg)
+      
 
 ### Задание 2
 
@@ -71,6 +70,9 @@
 3.  `Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.`
 4.  `Приложите в файл README.md текст использованных команд в GitHub`
 
+
+....
+
 ### Решение 2
 
 
@@ -79,6 +81,8 @@
 3.  `systemctl enable zabbix-agent`
 4.  `sed -i 's/Server=127.0.0.1/Server=192.168.1.36/g' /etc/zabbix/zabbix_agent.conf`
 5.  `sed -i 's/Server=127.0.0.1/Server=192.168.1.33/g' /etc/zabbix/zabbix_agent.conf`
+
+....
 
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg).
 
