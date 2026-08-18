@@ -51,7 +51,6 @@
     
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/1.jpg)
 
-
 ### Задание 1
 
 `Установите Zabbix Agent на два хоста.`
