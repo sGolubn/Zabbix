@@ -50,9 +50,9 @@
 11. `systemctl enable zabbix-server apache2`
     
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/1.jpg)
-```
 
-### Задание 2
+
+### Задание 1
 
 `Установите Zabbix Agent на два хоста.`
 `Процесс выполнения.`
@@ -71,6 +71,7 @@
 4.  `Приложите в файл README.md текст использованных команд в GitHub`
 
 ### Решение 2
+
 1.  `sudo apt install zabbix-agent`
 2.  `systemctl restart zabbix-agent`
 3.  `systemctl enable zabbix-agent`
@@ -80,11 +81,6 @@
 ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg)
 
 ![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg)
-....
-....
-....
-....
-```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+....
+
