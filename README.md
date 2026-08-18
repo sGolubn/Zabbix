@@ -71,6 +71,10 @@
 
 ### Решение 2
 
+![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg)
+
+![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg)
+
 1.  `sudo apt install zabbix-agent`
 2.  `systemctl restart zabbix-agent`
 3.  `systemctl enable zabbix-agent`
@@ -79,9 +83,10 @@
 
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg).
 
-   ![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg).
+   ![изображение](https://github.com/sGolubn/Zabbix/blob/main/1.jpg)
 
-   
+
+
 
 ....
 
