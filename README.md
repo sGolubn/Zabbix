@@ -50,8 +50,10 @@
 11. `systemctl enable zabbix-server apache2`
     
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/1.jpg)
+      ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg)
+         ![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg)
 
-### Задание 1
+### Задание 2
 
 `Установите Zabbix Agent на два хоста.`
 `Процесс выполнения.`
@@ -78,9 +80,9 @@
 4.  `sed -i 's/Server=127.0.0.1/Server=192.168.1.36/g' /etc/zabbix/zabbix_agent.conf`
 5.  `sed -i 's/Server=127.0.0.1/Server=192.168.1.33/g' /etc/zabbix/zabbix_agent.conf`
 
-  ![изображение]https://github.com/sGolubn/Zabbix/blob/259c5ace697000d2e68bdc6773765b88f6c2a3b8/2.jpg)
+   ![изображение](https://github.com/sGolubn/Zabbix/blob/main/2.jpg).
 
-  ![изображение]https://github.com/sGolubn/Zabbix/blob/85f9a4a49d8862eb81aa6befe35b9305385e3bd0/3.jpg)
+   ![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg).
 
 
 
