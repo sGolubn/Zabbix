@@ -81,5 +81,7 @@
 
    ![изображение](https://github.com/sGolubn/Zabbix/blob/main/3.jpg).
 
+   
+
 ....
 
